@@ -650,4 +650,8 @@ table td {
   color: #099;
 }
 
+.page-heading {
+  display: none;
+}
+
 /*# sourceMappingURL=main.css.map */
