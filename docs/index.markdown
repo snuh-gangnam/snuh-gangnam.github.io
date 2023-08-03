@@ -5,14 +5,14 @@
 layout: home
 ---
 
-Test Android App
+최근 업데이트
 =============
 
 
-###1. 원무/수진 [[down]](http://snuhdev.bitflow.ai/a.apk)
-####   - 업데이트: 2023.8.3 14:11
+1. 원무/수진 
+####   - 08월03일 14시 [[down]](http://snuhdev.bitflow.ai/a.apk)
 
 
 
-###2. 예약/결과 [[down]](http://snuhdev.bitflow.ai/b.apk)
-####    - 업데이트: 2023.8.3 12:51
+2. 예약/결과
+####    - 08월03일 12시 [[down]](http://snuhdev.bitflow.ai/b.apk)
